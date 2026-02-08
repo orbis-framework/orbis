@@ -1,0 +1,16 @@
+pyproject.toml
+orbis/__init__.py
+orbis/version.py
+orbis/core/backend.py
+orbis/core/dispatch.py
+orbis/core/operation.py
+orbis/core/optype.py
+orbis/loss/mse.py
+orbis/nn/linear.py
+orbis/optim/sgd.py
+orbis/tensor/ops.py
+orbis/tensor/tensor.py
+orbis_framework.egg-info/PKG-INFO
+orbis_framework.egg-info/SOURCES.txt
+orbis_framework.egg-info/dependency_links.txt
+orbis_framework.egg-info/top_level.txt
