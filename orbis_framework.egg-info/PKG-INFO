@@ -1,8 +1,0 @@
-Metadata-Version: 2.4
-Name: orbis-framework
-Version: 0.1.0
-Summary: Execution-first ML framework with explicit semantics
-Author: Orbis Contributors
-License: MIT
-Requires-Python: >=3.8
-Description-Content-Type: text/markdown
