@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "orbis-framework"
-version = "0.1.2"
+version = "0.1.7"
 description = "Execution-first ML framework with explicit semantics"
 readme = "README.md"
 requires-python = ">=3.8"
